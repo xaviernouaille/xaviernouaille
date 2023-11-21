@@ -1,6 +1,6 @@
 ## Hello, I'm Xavier Nouaille 👋
 
-- FullStack Developper React TypeScript
+- FullStack Developper TypeScript
 - Freelance developer for 2 years based in Paris
 
 
