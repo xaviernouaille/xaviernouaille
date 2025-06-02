@@ -1,4 +1,4 @@
 ## Hello, I'm Xavier Nouaille 👋
 
-- FullStack Developer based on Paris. Specialised in React.js / Next.js
-- Freelance developer for 4 years based in Paris
+- FullStack Developer based on Paris. Specialised in NestJS / React.js / Next.js
+- Freelance developer for 5 years based in Paris
